@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="<img width="1600" height="639" alt="WhatsApp Image 2026-09-03 at 6 35 45 PM" src="https://github.com/user-attachments/assets/ba5acd95-951b-47c6-aae8-fa8eff9f69a1" />
+" alt="Header Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
