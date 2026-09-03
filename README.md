@@ -1,7 +1,6 @@
 ## Hi there 👋
-<p align="center">
-  <img src="file:///C:/Users/Tanzid/Downloads/1234.jpeg" alt="Header Banner" width="100%">
-</p>
+<img width="1600" height="639" alt="1234" src="https://github.com/user-attachments/assets/9c8d5579-466f-4ccb-be35-61cb33ec0473" />
+
   
 <h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
