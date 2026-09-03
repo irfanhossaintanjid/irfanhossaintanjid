@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
-  <img src="file:///C:/Users/Tanzid/Downloads/WhatsApp%20Image%202026-09-03%20at%206.35.45%20PM.jpeg" alt="Header Banner" </p>
-<p align="center">
+  <img src="file:///C:/Users/Tanzid/Downloads/1234.jpeg" alt="Header Banner" width="100%">
+</p>
   
 <h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
