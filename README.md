@@ -1,7 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="<img width="1600" height="639" alt="1234" src="https://github.com/user-attachments/assets/fa4c4e38-92f6-437a-966d-e9c8c9ceff82" />
-" alt="Header Banner" width="100%">
+  <img src="<img width="1600" height="639" alt="1234" src="https://github.com/user-attachments/assets/fa4c4e38-92f6-437a-966d-e9c8c9ceff82" />" alt="Header Banner" width="100%">
 </p>
 <p align="center">
   
