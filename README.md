@@ -1,7 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="<img width="1600" height="639" alt="WhatsApp Image 2026-09-03 at 6 35 45 PM" src="https://github.com/user-attachments/assets/bbea4df3-bfaf-4f42-b243-44087746079a" />" alt="Header Banner" width="100%">
-</p>
+  <img src="file:///C:/Users/Tanzid/Downloads/WhatsApp%20Image%202026-09-03%20at%206.35.45%20PM.jpeg" alt="Header Banner" </p>
 <p align="center">
   
 <h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
