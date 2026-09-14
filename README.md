@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img width="1600" height="639" alt="1234" src="https://github.com/user-attachments/assets/9c8d5579-466f-4ccb-be35-61cb33ec0473" />
+<img width="2048" height="768" alt="ChatGPT Image Sep 15, 2026, 12_36_49 AM" src="https://github.com/user-attachments/assets/1db52c5c-d7a3-4a4c-98c0-6943ec6c8d29" />
+
 
   
 <h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
