@@ -178,21 +178,6 @@ JavaScript / TypeScript
 
 
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=irfanhossaintanjid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true"
-    height="180"
-    alt="Irfan's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanhossaintanjid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
-    height="180"
-    alt="Irfan's Top Languages"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=irfanhossaintanjid&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
