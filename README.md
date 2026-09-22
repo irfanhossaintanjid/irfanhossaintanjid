@@ -1,47 +1,57 @@
-## Hi there 👋
-<img width="2048" height="768" alt="ChatGPT Image Sep 15, 2026, 12_36_49 AM" src="https://github.com/user-attachments/assets/1db52c5c-d7a3-4a4c-98c0-6943ec6c8d29" />
+<div align="center">
 
+  <!-- Header Banner -->
+  <img src="https://github.com/user-attachments/assets/1db52c5c-d7a3-4a4c-98c0-6943ec6c8d29" alt="Banner" width="100%" />
 
-  
-<h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+  <br/><br/>
 
-- 🌱 I’m currently learning **React, Next.js**
+  <h1>Hi 👋, I'm Irfan Hossain</h1>
+  <h3>A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
-- 👨‍💻 All of my projects are available at [https://irfanhossaintanjid.github.io/assignment-1/](https://irfanhossaintanjid.github.io/assignment-1/)
+  <p>
+    <a href="https://linkedin.com/in/irfan-h-a2a622433/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://fb.com/irfan.hossain.977467"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="mailto:irfanhossaintanjid018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript and TypeScript**
+  ---
 
-- 📫 How to reach me **irfanhossaintanjid018@gmail.com**
+</div>
 
-- ⚡ Fun fact **I spend 80% of my time naming variables and debugging 🐛**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/irfan-h-a2a622433/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan-h-a2a622433/" height="30" width="40" /></a>
-<a href="https://fb.com/irfan.hossain.977467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irfan.hossain.977467" height="30" width="40" /></a>
+- 💻 **Focus:** Crafting clean, responsive, and user-friendly web interfaces.
+- 🌱 **Currently Learning:** React & Next.js
+- 📂 **Portfolio & Projects:** Explore my work on my [Project Showcase](https://irfanhossaintanjid.github.io/assignment-1/).
+- 💬 **Ask Me About:** HTML, CSS, Tailwind CSS, JavaScript, and TypeScript.
+- ⚡ **Fun Fact:** I spend 80% of my time naming variables and debugging! 🐛
+
+<br/>
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> &nbsp;
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanhossaintanjid&show_icons=true&locale=en&layout=compact" alt="irfanhossaintanjid" /></p>
+### 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanhossaintanjid&show_icons=true&locale=en" alt="irfanhossaintanjid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanhossaintanjid&" alt="irfanhossaintanjid" /></p>
-
-<!--
-**irfanhossaintanjid/irfanhossaintanjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=irfanhossaintanjid&show_icons=true&theme=dark&hide_border=true" alt="Irfan's GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanhossaintanjid&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanhossaintanjid&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
