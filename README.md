@@ -156,7 +156,7 @@ JavaScript / TypeScript
 
 <p align="center">
 
-<a href="https://irfanhossaintanjid.github.io/assignment-1/">
+<a href="https://dev-stack-iht.netlify.app">
   <img
     src="https://img.shields.io/badge/🌐%20Assignment%20Portfolio-Visit%20Project-00D9FF?style=for-the-badge"
   />
