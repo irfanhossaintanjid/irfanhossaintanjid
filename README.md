@@ -3,30 +3,28 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/1db52c5c-d7a3-4a4c-98c0-6943ec6c8d29"
-    alt="Irfan Hossain"
+    alt="Irfan Hossain banner"
     width="100%"
   />
 </p>
 
 <br />
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00D9FF;">Irfan Hossain</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
 
 <p align="center">
-  <strong>Frontend Developer • Aspiring Full Stack Developer</strong>
+  <strong>Frontend Developer • Aspiring Full-Stack Developer</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/irfanhossaintanjid">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/irfan-h-a2a622433/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:irfanhossaintanjid018@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -41,25 +39,24 @@ const irfan = {
   name: "Irfan Hossain",
   location: "Bangladesh 🇧🇩",
   role: "Frontend Developer",
-  goal: "Aspiring Full Stack Developer",
+  goal: "Aspiring Full-Stack Developer",
 
-  currentlyLearning: [
-    "React",
-    "Next.js"
-  ],
+  currentlyLearning: ["React", "Next.js"],
 
   interests: [
     "Web Development",
     "UI/UX",
     "Clean Code",
-    "Problem Solving"
+    "Problem Solving",
   ],
 
-  mindset: "Learn → Build → Break → Debug → Improve"
+  mindset: "Learn → Build → Break → Debug → Improve",
 };
 ```
 
 <br />
+
+---
 
 ## ⚡ What I Do
 
@@ -69,19 +66,17 @@ const irfan = {
 
 ### 🎨 Frontend Development
 
-Building responsive and interactive interfaces with modern frontend technologies.
+Building responsive, interactive interfaces with modern frontend technologies.
 
 </td>
-
 <td width="50%">
 
 ### 🧠 Continuous Learning
 
-Constantly improving my JavaScript, TypeScript, React and problem-solving skills.
+Constantly sharpening my JavaScript, TypeScript, React, and problem-solving skills.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
@@ -90,7 +85,6 @@ Constantly improving my JavaScript, TypeScript, React and problem-solving skills
 Turning ideas and assignments into real-world web applications.
 
 </td>
-
 <td width="50%">
 
 ### 🚀 Looking Forward
@@ -105,31 +99,25 @@ Currently exploring **React & Next.js** while working toward full-stack developm
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" /></p>
 
-### Frontend
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" /></p>
 
-### Tools & Design
+**Tools & Design**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /></p>
 
 <br />
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
 ```text
 React
@@ -152,58 +140,51 @@ JavaScript / TypeScript
 
 ---
 
-# 📂 Projects
+## 📂 Projects
 
 <p align="center">
-
-<a href="https://dev-stack-iht.netlify.app">
-  <img
-    src="https://img.shields.io/badge/🌐%20Assignment%20Portfolio-Visit%20Project-00D9FF?style=for-the-badge"
-  />
-</a>
-
+  <a href="https://dev-stack-iht.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Assignment%20Portfolio-Visit%20Project-00D9FF?style=for-the-badge" alt="Assignment Portfolio" />
+  </a>
 </p>
 
 <p align="center">
-  A collection of my frontend development work, assignments and learning projects.
+  A collection of my frontend development work, assignments, and learning projects.
 </p>
 
 <br />
 
-> 🚧 More projects are currently being built.
+> 🚧 More projects are currently in progress — check back soon.
 
 <br />
 
 ---
 
+## 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=irfanhossaintanjid&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
     alt="Irfan's GitHub Streak"
   />
 </p>
+
 <br />
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/irfan-h-a2a622433/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://fb.com/irfan.hossain.977467">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:irfanhossaintanjid018@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://linkedin.com/in/irfan-h-a2a622433/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/irfan.hossain.977467">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:irfanhossaintanjid018@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <br />
@@ -212,16 +193,14 @@ JavaScript / TypeScript
 
 <p align="center">
 
-### `while(alive) { code(); learn(); improve(); }`
+### `while (alive) { code(); learn(); improve(); }`
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=irfanhossaintanjid&label=Profile%20Views&color=00D9FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=irfanhossaintanjid&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
 
 </p>
 
 <br />
 
-<!--
-  Built with curiosity, caffeine and a questionable number of console.log() statements.
--->
+<!-- Built with curiosity, caffeine, and a questionable number of console.log() statements. -->
