@@ -1,206 +1,64 @@
-<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/1db52c5c-d7a3-4a4c-98c0-6943ec6c8d29"
-    alt="Irfan Hossain banner"
-    width="100%"
-  />
-</p>
+<img src="https://github.com/user-attachments/assets/1db52c5c-d7a3-4a4c-98c0-6943ec6c8d29" width="100%" alt="Irfan Hossain banner" />
 
-<br />
+# Irfan Hossain
 
-<h1 align="center">Hi 👋, I'm Irfan Hossain</h1>
+**Frontend Developer &nbsp;·&nbsp; Aspiring Full-Stack Developer &nbsp;·&nbsp; Bangladesh 🇧🇩**
 
-<p align="center">
-  <strong>Frontend Developer • Aspiring Full-Stack Developer</strong>
-</p>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/irfanhossaintanjid)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-h-a2a622433/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/irfan.hossain.977467)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:irfanhossaintanjid018@gmail.com)
 
-<p align="center">
-  <a href="https://github.com/irfanhossaintanjid">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/irfan-h-a2a622433/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:irfanhossaintanjid018@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
-<br />
+<br>
 
----
+### 👋 About Me
 
-## `> whoami`
+I'm a self-taught frontend developer working toward becoming a full-stack engineer. I enjoy turning ideas into clean, functional interfaces and I'm currently deepening my skills in **React** and **Next.js**.
 
-```ts
-const irfan = {
-  name: "Irfan Hossain",
-  location: "Bangladesh 🇧🇩",
-  role: "Frontend Developer",
-  goal: "Aspiring Full-Stack Developer",
+- 🔭 Currently building: assignment & portfolio projects with React and Tailwind CSS
+- 🌱 Currently learning: Next.js (App Router, Server/Client Components)
+- 💬 Ask me about: HTML, CSS, JavaScript, TypeScript, React, Tailwind, OOP basics
+- ⚡ Mindset: `Learn → Build → Break → Debug → Improve`
 
-  currentlyLearning: ["React", "Next.js"],
+<br>
 
-  interests: [
-    "Web Development",
-    "UI/UX",
-    "Clean Code",
-    "Problem Solving",
-  ],
+### 🧰 Tools & Technologies
 
-  mindset: "Learn → Build → Break → Debug → Improve",
-};
-```
+| | |
+|---|---|
+| **Languages** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-<br />
+<br>
 
----
+### 📌 Featured Project
 
-## ⚡ What I Do
+**[Assignment Portfolio →](https://dev-stack-iht.netlify.app)**
+A collection of my frontend development work, assignments, and learning projects, built with React and Tailwind CSS.
 
-<table>
-<tr>
-<td width="50%">
+> 🚧 More projects in progress — check back soon.
 
-### 🎨 Frontend Development
+<br>
 
-Building responsive, interactive interfaces with modern frontend technologies.
+### 📈 GitHub Stats
 
-</td>
-<td width="50%">
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=irfanhossaintanjid&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak Stats" />
+</div>
 
-### 🧠 Continuous Learning
+<br>
 
-Constantly sharpening my JavaScript, TypeScript, React, and problem-solving skills.
+<div align="center">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧩 Building Projects
-
-Turning ideas and assignments into real-world web applications.
-
-</td>
-<td width="50%">
-
-### 🚀 Looking Forward
-
-Currently exploring **React & Next.js** while working toward full-stack development.
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p><img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" /></p>
-
-**Frontend**
-
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" /></p>
-
-**Tools & Design**
-
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /></p>
-
-<br />
-
----
-
-## 🚀 Current Focus
-
-```text
-React
-  └── Component Architecture
-  └── State Management
-  └── API Integration
-
-Next.js
-  └── App Router
-  └── Server & Client Components
-  └── Full-Stack Applications
-
-JavaScript / TypeScript
-  └── Problem Solving
-  └── Data Structures
-  └── Clean & Maintainable Code
-```
-
-<br />
-
----
-
-## 📂 Projects
-
-<p align="center">
-  <a href="https://dev-stack-iht.netlify.app">
-    <img src="https://img.shields.io/badge/🌐%20Assignment%20Portfolio-Visit%20Project-00D9FF?style=for-the-badge" alt="Assignment Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  A collection of my frontend development work, assignments, and learning projects.
-</p>
-
-<br />
-
-> 🚧 More projects are currently in progress — check back soon.
-
-<br />
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=irfanhossaintanjid&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
-    alt="Irfan's GitHub Streak"
-  />
-</p>
-
-<br />
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/irfan-h-a2a622433/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/irfan.hossain.977467">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:irfanhossaintanjid018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<br />
-
----
-
-<p align="center">
-
-### `while (alive) { code(); learn(); improve(); }`
-
-<br />
+`while (alive) { code(); learn(); improve(); }`
 
 <img src="https://komarev.com/ghpvc/?username=irfanhossaintanjid&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views" />
 
-</p>
-
-<br />
+</div>
 
 <!-- Built with curiosity, caffeine, and a questionable number of console.log() statements. -->
